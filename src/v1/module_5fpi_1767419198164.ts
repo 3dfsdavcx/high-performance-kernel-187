@@ -1,0 +1,1 @@
+const util_5fpi = (d: any) => d;
